@@ -9,6 +9,74 @@ https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO58VFboTQONMKGZsAg0
 https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0NTQ0MTk3LCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuODgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMy4xMTcuODgiXX0sInNpZ25hdHVyZSI6IjY0MWEzZTUxZjRkYzhiZTcxOWEzMzliZDEwNTEyYjU5YjlhOTZhMDEifQ%3D%3D
 #EXTINF:-1,CR | Repretel 11
 https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0NTQ0MzQ0LCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuODgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMy4xMTcuODgiXX0sInNpZ25hdHVyZSI6IjRiYTUzODk3MjYzZjc0Mjk4OWViNmM2NWFhODRmM2JmNmRkMDAzYzkifQ%3D%3D
+#EXTINF:-1 group-title="ESTABLES" ,UNIMAS (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_UNIMAS_HD/index.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,BANDAMAX (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_BANDAMAX/index.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,CINELATINO (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_CINELATINO/index.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,CINEMAX (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_CINEMAX/index.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,Discovery KIDS (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_Claro_Sports/index.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,LIFETIME (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_LIFETIME/index.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,SONY (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_SONY/index.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,AZ Click (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_Az_Click_HD/index.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,Fox Series (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_Fox_1_HD/index.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,ESPN (Game Snake Land S. y L.)
+http://wowza2.mysoltv.com:1992/Latino_ESPN/index.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,Azteca13 (Game Snake Land S. y L. )
+http://209.126.116.177:2086/113azteca13/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,Centraldelacomedia (Game Snake Land S. y L. )
+http://209.126.116.177:2086/225CMEDY/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,E!Latino (Game Snake Land S. y L. )
+http://209.126.116.177:2086/212E!Latino/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,FX (Game Snake Land S. y L. )
+http://209.126.116.177:2086/207FXLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,Fox life (Game Snake Land S. y L. )
+http://209.126.116.177:2086/209FoxLife/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,Sony (Game Snake Land S. y L. )
+http://209.126.116.177:2086/211sony/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,SyFy (Game Snake Land S. y L. )
+http://209.126.116.177:2086/204SyFyLatin/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,TBS (Game Snake Land S. y L. )
+http://209.126.116.177:2086/223TBS/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,SerieTNT (Game Snake Land S. y L. )
+http://209.126.116.177:2086/205TNTSE/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,WarnerChannel (Game Snake Land S. y L. )
+http://209.126.116.177:2086/210WarnerChannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,CartoonNetwork (Game Snake Land S. y L. )
+http://209.126.116.177:2086/307CartoonNetwork/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,Discoverykids (Game Snake Land S. y L. )
+http://209.126.116.177:2086/310discoverykids/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,Disney (Game Snake Land S. y L. )
+http://209.126.116.177:2086/302Disneychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,DisneyJunior (Game Snake Land S. y L. )
+http://209.126.116.177:2086/303DisneyJunior/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,DisneyXD (Game Snake Land S. y L. )
+http://209.126.116.177:2086/304DisneyXDNorte/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,Nickelodeon (Game Snake Land S. y L. )
+http://209.126.116.177:2086/305nickelodeon/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,NickJr (Game Snake Land S. y L. )
+http://209.126.116.177:2086/306NickJrLatinAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,Dyscovery Channel (Game Snake Land S. y L. )
+http://209.126.116.177:2086/402discoverychannel/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,DiscoveryH&H (Game Snake Land S. y L. )
+http://209.126.116.177:2086/215DiscoveryHH/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,History (Game Snake Land S. y L. )
+http://209.126.116.177:2086/409history/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,NatGeo (Game Snake Land S. y L. )
+http://209.126.116.177:2086/405Natgeo/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,AXN (Game Snake Land S. y L. )
+http://209.126.116.177:2086/213AXNLatinoAmerica/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,Estudio (Game Snake Land S. y L. )
+http://209.126.116.177:2086/206Studio/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
+#EXTINF:-1 group-title="ESTABLES" ,Universal (Game Snake Land S. y L. )
+http://209.126.116.177:2086/203Universal/android/chunk_Auth=ix08xZ%5E@6Qg7xc=1/playlist.m3u8
 #EXTINF:-1,USA | CNBC
 http://googleiptv.org:2086/hurcamiptv/AatJhrVQOd/16740
 #EXTINF:-1,USA | CNBC US
