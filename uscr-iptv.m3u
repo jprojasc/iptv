@@ -11,3 +11,5 @@ https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunkli
 https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0NTQ0MzQ0LCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuODgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMy4xMTcuODgiXX0sInNpZ25hdHVyZSI6IjRiYTUzODk3MjYzZjc0Mjk4OWViNmM2NWFhODRmM2JmNmRkMDAzYzkifQ%3D%3D
 #EXTINF:-1,USA | CBS
 https://teleupmsl.akamaized.net/hls/live/2004009/whphdmsl/whphd_600/chunklist.m3u8?hdntl=exp=1584571957~acl=/*~data=hdntl~hmac=efbc1d82840fafb5f5201e16279ac42ccef27832914f664967c9a3d2f7f00549
+#EXTINF:-1,ES | DW
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
