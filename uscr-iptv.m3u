@@ -1,15 +1,13 @@
 #EXTM3U
-#EXTINF:-1,CR | Repretel 2
-https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0NTQ0NDM5LCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuODgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMy4xMTcuODgiXX0sInNpZ25hdHVyZSI6ImQxOWEwZjk4MDYxNDJkNzNiZTk2OWQ0ZWY2NTkwOTExZTgxZjQ3NGEifQ%3D%3D
 #EXTINF:-1,CR | Repretel 4
-https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0NTQ0Mzg3LCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuODgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMy4xMTcuODgiXX0sInNpZ25hdHVyZSI6IjdhNTA1NzIzZWNiN2ZjNmNhOWFmYjEwZWUyZDA3ZTZmMTU3MmUwZDQifQ%3D%3D
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0OTc0NTc2LCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuODgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMy4xMTcuODgiXX0sInNpZ25hdHVyZSI6ImE4ZTIwZTJiNTVmOTM0NWVhN2JjMWRkYmEyMzJhZWRkNTg0NTk1MDkifQ%3D%3D
 #EXTINF:-1,CR | Teletica
 https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO58VFboTQONMKGZsAg0EWreg)/dm/3/x29e3wg/s/live-3.m3u8
 #EXTINF:-1,CR | Repretel 6
-https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0NTQ0MTk3LCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuODgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMy4xMTcuODgiXX0sInNpZ25hdHVyZSI6IjY0MWEzZTUxZjRkYzhiZTcxOWEzMzliZDEwNTEyYjU5YjlhOTZhMDEifQ%3D%3D
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0OTc0Mzk4LCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuODgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMy4xMTcuODgiXX0sInNpZ25hdHVyZSI6IjMzNzA4ODUwNTEwMmE3YzBkOGQ1MDU3Y2M0OTg5OTMyNGIxZWQ3NzkifQ%3D%3D
 #EXTINF:-1,CR | Repretel 11
-https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0NTQ0MzQ0LCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuODgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMy4xMTcuODgiXX0sInNpZ25hdHVyZSI6IjRiYTUzODk3MjYzZjc0Mjk4OWViNmM2NWFhODRmM2JmNmRkMDAzYzkifQ%3D%3D
-#EXTINF:-1,USA | CBS
-https://teleupmsl.akamaized.net/hls/live/2004009/whphdmsl/whphd_600/chunklist.m3u8?hdntl=exp=1584571957~acl=/*~data=hdntl~hmac=efbc1d82840fafb5f5201e16279ac42ccef27832914f664967c9a3d2f7f00549
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0OTc0NTE0LCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuODgiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMy4xMTcuODgiXX0sInNpZ25hdHVyZSI6ImUzMTZmMjY4YWUzODk0ZjIxMTg1MzYxNTBkM2E0MjEyOWFkNjNiZmUifQ%3D%3D
+#EXTINF:-1,CR | Canal 13
+https://playback2.akamaized.net/streams/1532727_8717137_lsi35ggm8tgcxailaz9_1/exp=1584974755~acl=%2f*~data=hdntl~hmac=4331abbed3ee5e7e26326cabb1ee7c1805e066e244b694273a8c308fba394657/media/1532727_8717137_lsi35ggm8tgcxailaz9_1@2128000p.m3u8?dw=14400&ts=1584885600
 #EXTINF:-1,ES | DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
