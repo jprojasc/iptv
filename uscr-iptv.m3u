@@ -8,6 +8,6 @@ https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunkli
 #EXTINF:-1,CR | Repretel 11
 https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg1OTM2OTE2LCJzZXNzaW9uIjoiMjAxLjIwMy4xMTcuMTQyIiwid2hpdGVsaXN0IjpbIjIwMS4yMDMuMTE3LjE0MiJdfSwic2lnbmF0dXJlIjoiNGQ3ZjI5MTM2OTdjZjc5OWMyNTAyNGFmNTgzOWJhYzNmOThlMWJhNyJ9
 #EXTINF:-1,CR | Canal 13
-https://playback2.akamaized.net/streams/1532727_8717137_lsi35ggm8tgcxailaz9_1/exp=1584974755~acl=%2f*~data=hdntl~hmac=4331abbed3ee5e7e26326cabb1ee7c1805e066e244b694273a8c308fba394657/media/1532727_8717137_lsi35ggm8tgcxailaz9_1@2128000p.m3u8?dw=14400&ts=1584885600
+https://playback2.akamaized.net/streams/1532727_8717137_lsi970ycheix9vwpnky_1/exp=1586185892~acl=%2f*~data=hdntl~hmac=9712596c01fe893aea76e7c9e96f73cccfb8f3ab6cb80834c274e22b23ec172f/media/1532727_8717137_lsi970ycheix9vwpnky_1@2128000pb.m3u8?dw=14400&ts=1586098800
 #EXTINF:-1,ES | DW
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
